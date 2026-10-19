@@ -1,0 +1,13 @@
+Stock Portfolio Tracker
+-----------------------
+Stock: AAPL
+Quantity: 5
+Price: 180
+Investment: 900
+
+Stock: TSLA
+Quantity: 5
+Price: 250
+Investment: 1250
+
+Total Investment: 2150
